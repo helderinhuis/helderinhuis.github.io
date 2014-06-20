@@ -1,0 +1,17 @@
+html
+{
+  font-family:"Arial";
+}
+
+h1
+{
+  text-align:center;
+}
+
+img.centered_image
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2cm;
+}
