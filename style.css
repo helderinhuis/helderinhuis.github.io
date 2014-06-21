@@ -8,7 +8,7 @@ h1
   text-align:center;
 }
 
-img.centered_image
+.centered_image
 {
   display: block;
   margin-left: auto;
